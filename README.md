@@ -13,4 +13,4 @@ Language: Python 3.7
 /GTSAN.py. The main code of the GTSAN model that extracts the features and classification from the EEG signals.
 
 # Supplement
-psdfeature is the input data of the GTSAN model.
+psdfeature.mat is the input data of the GTSAN model.
